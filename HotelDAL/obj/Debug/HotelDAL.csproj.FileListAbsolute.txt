@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2012\Projects\WebApplication1\HotelDAL\bin\Debug\HotelDAL.dll
+C:\Users\User\documents\visual studio 2012\Projects\WebApplication1\HotelDAL\bin\Debug\HotelDAL.pdb
+C:\Users\User\documents\visual studio 2012\Projects\WebApplication1\HotelDAL\obj\Debug\HotelDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2012\Projects\WebApplication1\HotelDAL\obj\Debug\HotelDAL.dll
+C:\Users\User\documents\visual studio 2012\Projects\WebApplication1\HotelDAL\obj\Debug\HotelDAL.pdb
